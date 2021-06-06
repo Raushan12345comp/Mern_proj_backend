@@ -1,3 +1,4 @@
 {
-    "editor.fontFamily": "Monospace"
+    "editor.fontFamily": "Monospace",
+    "git.ignoreLimitWarning": true
 }
